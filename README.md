@@ -6,10 +6,10 @@
   ## Preview
   
   Screenshot:
-  ![readmescreenshot](/visuals/readme-terminal-screenshot.png)
+  ![readmescreenshot](/visuals/readme.png)
   
   Gif:
-  ![readmegif](/visuals/readme-demo.gif)
+  ![readmegif](/visuals/readme.gif)
   
   Result:
   ![result](/visuals/example.png)
