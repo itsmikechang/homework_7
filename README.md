@@ -1,11 +1,18 @@
 # The Best Readme Generator Evaaaaaaaa
 
-  ## Preview
-  ![readmescreenshot](/visuals/readme-terminal-screenshot.png)
-  ![readmegif](/visuals/readme-demo.gif)
-
   ## Description
   This bad larry allows you to make sick readme files that will impress your mom, grandmom, girlfriend or boyfriend, boss, jesus, the president, a baby, a dog, your   cat and everyone inbetween. This sweet baby bahjesus takes the guess work out of conventionally writing a readme by boiling down all of the boring stuff into a     few short questions that goes so fast, you'll freak! Kinda like jimmy johns. Not in sandwich form but just as delicious!
+  
+  ## Preview
+  
+  Screenshot:
+  ![readmescreenshot](/visuals/readme-terminal-screenshot.png)
+  
+  Gif:
+  ![readmegif](/visuals/readme-demo.gif)
+  
+  Result:
+  ![result](/visuals/example.png)
 
   ## Table of contents
   * [Description](#description)
@@ -19,9 +26,9 @@
   ## Installation
   
   ```
+  $ npm init
   $ npm install inquirer
   $ npm install fs
-  $ npm init
   ```
   ## Instructions
   
