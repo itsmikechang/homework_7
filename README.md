@@ -1,7 +1,7 @@
 # The Best Readme Generator Evaaaaaaaa
 
   ## Preview
-  ![readmescreenshot](/visuals/readme-terminal-screeshot.png)
+  ![readmescreenshot](/visuals/readme-terminal-screenshot.png)
   ![readmegif](/visuals/readme-demo.gif)
 
   ## Description
