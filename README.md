@@ -6,7 +6,7 @@
   ## Preview
   ![readmescreenshot](/visuals/readme.png)
   ![readmegif](/visuals/readme.gif)
-  ![result](/visuals/example.png)
+  ![result](/visuals/readmedeployed.png)
 
   ## Table of contents
   * [Description](#description)
